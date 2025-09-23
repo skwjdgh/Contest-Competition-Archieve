@@ -1,0 +1,1 @@
+video2x에 realesrgan으로 4k로 업스케일링한 뒤에, ffmpeg으로 fhd로 다운스케일링한 결과물
